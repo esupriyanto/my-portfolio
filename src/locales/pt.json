@@ -1,0 +1,260 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "projects": "Proyek",
+    "contact": "Kontak"
+  },
+  "home": {
+    "hero": {
+      "greeting": "Halo, saya Eko Supriyanto",
+      "title": "Cloud Engineer",
+      "subtitle": "TypeScript & Python",
+      "cta": "Hubungi Saya"
+    },
+    "about": {
+      "title": "TENTANG SAYA",
+      "description": "Cloud Engineer yang berspesialisasi dalam TypeScript dan Python, dengan fokus kuat pada pembuatan aplikasi web berperforma tinggi. Dengan pengalaman dalam berbagai framework dan teknologi, saya mengembangkan solusi skalabel yang menggabungkan kode bersih, desain elegan, dan pengalaman pengguna yang luar biasa."
+    },
+    "work": {
+      "title": "PROYEK TERBARU",
+      "subtitle": "Karya pilihan dari portofolio saya",
+      "viewAll": "Lihat semua proyek"
+    },
+    "expertise": {
+      "frontend": {
+        "title": "Frontend",
+        "description": "Membuat antarmuka pengguna yang intuitif dan responsif dengan teknologi modern",
+        "headline": "Pengalaman visual yang berdampak",
+        "description_extended": "Fokus saya adalah membuat antarmuka yang tidak hanya berfungsi sempurna, tetapi juga memanjakan pengguna dengan animasi yang mulus, desain responsif, dan performa tinggi.",
+        "feature_list": {
+          "item1": "Antarmuka interaktif dan responsif",
+          "item2": "Animasi canggih dan mikro-interaksi",
+          "item3": "Arsitektur komponen yang skalabel",
+          "item4": "Aplikasi Web Progresif (PWA)",
+          "item5": "Optimasi SEO dan aksesibilitas"
+        },
+        "editor_filename": "AnimatedComponent.tsx",
+        "cards": {
+          "layout": {
+            "title": "Desain UI/UX",
+            "description": "Pembuatan antarmuka yang menarik dan intuitif berdasarkan prinsip kegunaan dan desain modern."
+          },
+          "development": {
+            "title": "Pengembangan Komponen",
+            "description": "Pembuatan komponen yang dapat digunakan kembali dengan React, mengoptimalkan performa dan pemeliharaan."
+          },
+          "animation": {
+            "title": "Animasi Canggih",
+            "description": "Implementasi animasi yang mulus dan interaktif yang meningkatkan pengalaman pengguna ke level baru."
+          },
+          "responsive": {
+            "title": "Desain Responsif",
+            "description": "Antarmuka yang beradaptasi sempurna dengan perangkat apa pun, memastikan pengalaman yang konsisten."
+          },
+          "performance": {
+            "title": "Performa",
+            "description": "Optimasi pemuatan, rendering, dan interaktivitas untuk situs yang cepat dan efisien."
+          },
+          "css": {
+            "title": "CSS Tingkat Lanjut",
+            "description": "Penguasaan Tailwind CSS, Styled Components, CSS Modules, animasi, dan transisi kustom."
+          }
+        }
+      },
+      "backend": {
+        "title": "Backend",
+        "description": "Mengembangkan aplikasi sisi server yang kuat dan skalabel serta API",
+        "headline": "Arsitektur Sistem",
+        "description_extended": "Saya membangun sistem back-end dengan fokus pada performa, skalabilitas, dan keamanan, menggunakan praktik terbaik rekayasa perangkat lunak untuk memastikan kode yang bersih, dapat diuji, dan mudah dipelihara.",
+        "feature_list": {
+          "item1": "Pola desain dan prinsip SOLID",
+          "item2": "Pengujian otomatis dan TDD",
+          "item3": "Arsitektur berlapis dan heksagonal",
+          "item4": "Sistem terdistribusi dan skalabilitas horizontal",
+          "item5": "Pemantauan dan logging tingkat lanjut"
+        },
+        "editor_filename": "server.js",
+        "terminal_text": "$ node server.js\nMenginisialisasi server...\nMenghubungkan ke database...\nKoneksi berhasil!\nMengonfigurasi rute...\nEndpoint API terdaftar\nMiddleware dikonfigurasi\nMemulai server di port 3000\nServer berjalan di http://localhost:3000\nSiap menerima permintaan...",
+        "cards": {
+          "api": {
+            "title": "Desain API",
+            "description": "API RESTful dan GraphQL dengan autentikasi tingkat lanjut, penanganan kesalahan, dan dokumentasi."
+          },
+          "database": {
+            "title": "Basis Data",
+            "description": "Desain database, optimasi, migrasi, implementasi ORM, dan penyetelan performa."
+          },
+          "security": {
+            "title": "Keamanan",
+            "description": "Implementasi autentikasi JWT, OAuth, perlindungan terhadap injeksi SQL dan serangan umum lainnya."
+          },
+          "microservices": {
+            "title": "Mikrolayanan",
+            "description": "Arsitektur terdistribusi, komunikasi antar layanan, penyeimbangan beban, dan ketahanan sistem."
+          },
+          "cloud": {
+            "title": "Cloud & DevOps",
+            "description": "Penyebaran di AWS, Azure, kontainerisasi dengan Docker, orkestrasi dengan Kubernetes, CI/CD."
+          },
+          "nodejs": {
+            "title": "Node.js Tingkat Lanjut",
+            "description": "Penguasaan Express, NestJS, proses asinkron, stream, worker, dan optimasi performa."
+          }
+        }
+      }
+    },
+    "reviews": {
+      "title": "MASUKAN LINKEDIN",
+      "loading": "Memuat masukan..."
+    }
+  },
+  "projects": {
+    "title": "PROYEK",
+    "subtitle": "Pilihan dari karya-karya terbaru saya",
+    "viewProject": "Lihat proyek",
+    "categories": {
+      "frontend": "front end",
+      "backend": "back end",
+      "fullstack": "full stack"
+    }
+  },
+  "contact": {
+    "title": "KONTAK",
+    "subtitle": "Hubungi saya",
+    "form": {
+      "name": "Nama",
+      "email": "Email",
+      "message": "Pesan",
+      "submit": "Kirim pesan",
+      "success": "Pesan berhasil dikirim!",
+      "error": "Kesalahan saat mengirim pesan. Silakan coba lagi."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Eko Supriyanto. Seluruh hak cipta dilindungi undang-undang."
+  },
+  "whatsapp": {
+    "message": "Halo! Saya melihat portofolio Anda dan ingin mengobrol."
+  },
+  "work_projects": [
+    {
+      "name": "SMVZap Extension",
+      "category": "full stack",
+      "description": "Proyek yang sangat menantang, di mana saya dapat mengembangkan ekstensi Chrome yang memungkinkan penyertaan alat bantu canggih bagi penjual seperti pengiriman pesan massal, pesan terjadwal, pesan otomatis, dll."
+    },
+    {
+      "name": "SMV Flow",
+      "category": "full stack",
+      "description": "Panel administratif untuk kontrol internal dari sejumlah proses dalam perusahaan Super Megavendas, serta kontrol pengguna, izin, dll."
+    },
+    {
+      "name": "Evnttz",
+      "category": "front end",
+      "description": "Evnttz adalah platform manajemen acara yang menyederhanakan organisasi dengan penjualan tiket, kontrol peserta, gamifikasi, dan analisis real-time. Semua ini dalam antarmuka yang modern dan intuitif."
+    },
+    {
+      "name": "Maestria",
+      "category": "front end",
+      "description": "Sistem Maestria dikembangkan bersama pengacara untuk menawarkan pengalaman yang dioptimalkan. Hasilnya adalah platform intuitif yang menyederhanakan pencarian yurisprudensi dan membuat perjalanan hukum lebih mudah diakses."
+    },
+    {
+      "name": "Migtech Hub",
+      "category": "front end",
+      "description": "Apakah Anda seorang profesional kesehatan yang ingin melakukan transisi karier di negara baru? Tim kami menawarkan dukungan lengkap, mulai dari validasi ijazah hingga penempatan profesional. Dengan pendekatan yang dipersonalisasi, kami menjamin transisi yang mulus ke pasar Amerika."
+    },
+    {
+      "name": "Vivalá",
+      "category": "front end",
+      "description": "Tujuan kami adalah mengubah Brasil menjadi destinasi pariwisata berkelanjutan terbesar di dunia, menciptakan ekspedisi yang transformatif bagi wisatawan, komunitas, dan planet ini."
+    },
+    {
+      "name": "JA Brasil (Admin Panel)",
+      "category": "front end",
+      "description": "Kami adalah salah satu organisasi sosial paling berpengaruh di dunia dan telah beroperasi di Brasil selama empat dekade, memberi manfaat bagi lebih dari 5 juta kaum muda di seluruh wilayah negara tersebut. Kami fokus pada perluasan pendidikan kewirausahaan dan perkembangan ekonomi negara."
+    },
+    {
+      "name": "Gastrobox",
+      "category": "full stack",
+      "description": "Situs web pengiriman makanan dengan sistem manajemen pesanan dan menu."
+    },
+    {
+      "name": "SMVZap Clients",
+      "category": "back end",
+      "description": "API SMVZap adalah API yang kuat dan multifungsi yang dirancang untuk mengelola dan mengontrol aspek-aspek krusial dari sistem pengguna, termasuk waktu premium, pembuatan dan manajemen akun, serta penentuan tipe pengguna. API ini menyediakan endpoint yang memungkinkan integrasi dengan front-end SMVZap."
+    }
+  ],
+  "portfolio_projects": [
+    {
+      "name": "Portfolio Open Source",
+      "category": "front end",
+      "description": "Ini adalah portofolio yang dikembangkan untuk memberi manfaat bagi pengembang yang belum memiliki portofolio atau pengembang yang menginginkan portofolio baru."
+    },
+    {
+      "name": "YRprey",
+      "category": "front end",
+      "description": "Situs model yang mensimulasikan berbagai kerentanan dan celah keamanan, menantang pengembang untuk menguji keterampilan mereka dalam mendeteksi dan memperbaiki masalah tersebut pada sistem web."
+    },
+    {
+      "name": "Dogma",
+      "category": "front end",
+      "description": "Situs web yang didedikasikan untuk perusahaan konstruksi, memberikan informasi tentang layanan, proyek yang telah selesai, dan kontak."
+    },
+    {
+      "name": "User crud",
+      "category": "back end",
+      "description": "Ini adalah CRUD pengguna yang bertujuan untuk memfasilitasi akses dengan fungsionalitas dasar pengguna dan login."
+    },
+    {
+      "name": "Scanner CNAB",
+      "category": "full stack",
+      "description": "Ini adalah aplikasi Scanner CNBA - yang bertujuan untuk memudahkan pembacaan dokumen CNAB.txt"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Christian Alex Soares Gall de Oliveira",
+      "job": "Software Developer",
+      "review": "Saya ingin menyampaikan rekomendasi setinggi-tingginya. Selama bekerja dengannya, saya terkesan dengan keterampilan dan kemampuannya untuk menyatukan kelompok demi tujuan bersama.\n\nMemiliki pengetahuan mendalam dalam pengembangan di berbagai teknologi dan menggunakan pengetahuan tersebut untuk mengusulkan solusi inovatif dan efisien. Proyek-proyek yang luar biasa.\n\nSelain itu, ia sangat proaktif dan selalu mencari cara untuk meningkatkan proses pengembangan dan mengoptimalkan kerja tim. Memiliki kepribadian yang ceria dan menular yang menginspirasi orang lain untuk maju dan mencapai hasil bersama.\n\nSingkatnya, saya percaya bahwa ia adalah pengembang full-stack berbakat yang tak kenal lelah, dan saya yakin ia akan terus unggul dalam kariernya. Saya merekomendasikannya tanpa keraguan bagi tim mana pun yang mencari pengembang yang sangat terampil dan berdedikasi."
+    },
+    {
+      "name": "Tsunode (Gabriel Tsunoda)",
+      "job": "Software Developer",
+      "review": "Eko adalah profesional yang luar biasa dan saya bisa mengatakannya dengan otoritas penuh, karena saya berkesempatan memimpinnya selama pengalamannya sebagai monitor front-end di Kenzie Academy.\n\nSelain keterampilan teknis yang diperolehnya dengan mudah, saya menyoroti semangat yang dimiliki orang ini terhadap komunitas, untuk membantu orang-orang dan keinginan besar untuk menciptakan sesuatu, suatu talenta.\n\nEko menciptakan komunitas bernama 'The Champions', dan telah membantu banyak orang sejak saat itu. Saya harus menyoroti periode ketika saya menjadi instruktur baginya, dan kelompok proyek di mana ia bergabung mengejutkan kami dengan proyek yang luar biasa, menggunakan teknologi di luar yang kami ajarkan, menunjukkan dengan jelas bahwa mereka memiliki proaktivitas dan semangat untuk belajar.\n\nNah, jika Anda membaca sampai sini, saya percaya saat ini Anda sudah memanggil Eko untuk berbincang, untuk mengundangnya bergabung ke tim Anda, saya tidak akan melewatkannya!"
+    },
+    {
+      "name": "José Cássio",
+      "job": "Software Developer @Super Megavendas",
+      "review": "Saya mendapat hak istimewa untuk memiliki Eko sebagai tech leader saya, ia berhasil menyampaikan pengetahuan yang pastinya akan saya bawa sepanjang perjalanan saya. Saya memperoleh banyak pengetahuan selama bekerja di sampingnya dan saya akan selamanya berterima kasih untuk itu. Tidak pernah ada masalah yang cukup rumit yang tidak memiliki solusi. 'Tidak ada yang tidak mungkin, asal ada kemauan'."
+    },
+    {
+      "name": "Cláudio Bittencourt",
+      "job": "Partner dan COO @Super Megavendas",
+      "review": "Profesional yang sangat baik, terorganisir, sangat kreatif, dan proaktif."
+    },
+    {
+      "name": "Vagner Mengali",
+      "job": "Software Developer",
+      "review": "Eko adalah pengembang yang luar biasa. Ia selalu menunjukkan keterampilan teknis yang luar biasa, menonjol dalam logika pemrograman dan tetap up-to-date dengan tren terbaru.\n\nProaktivitas dan kesediaannya untuk membantu rekan kerja sangat jelas, berkontribusi pada peningkatan berkelanjutan dalam proses tim. Eko bukan hanya profesional berbakat, tetapi juga rekan tim panutan, dengan keterampilan interpersonal luar biasa yang menciptakan lingkungan kerja positif.\n\nKeahliannya dalam User Experience (UX) menghasilkan antarmuka yang intuitif dan menyenangkan dalam proyek-proyek kami. Singkatnya, Eko adalah tambahan yang sangat berharga bagi tim pengembangan mana pun, dan saya yakin ia akan terus memberikan dampak positif dalam tantangan profesional masa depannya."
+    }
+  ],
+  "keywords": {
+    "highlight": [
+      "luar biasa",
+      "menakjubkan",
+      "berbakat",
+      "keterampilan",
+      "profesional",
+      "komunikasi",
+      "pengetahuan",
+      "inovatif",
+      "proaktif",
+      "berdedikasi",
+      "terampil"
+    ]
+  },
+  "meta": {
+    "title": "Eko Supriyanto - Cloud Engineer | Portofolio",
+    "description": "Cloud Engineer yang berspesialisasi dalam TypeScript dan Python, dengan fokus kuat pada pembuatan aplikasi web berperforma tinggi dengan teknologi modern.",
+    "keywords": "Full-stack, Pengembang, TypeScript, Python, React, Node.js"
+  }
+}
